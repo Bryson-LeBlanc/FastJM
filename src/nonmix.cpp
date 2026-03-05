@@ -9,6 +9,7 @@
 // TEST CHANGES - bwl0016
 // TEST CHANGES 2 - bwl0016
 // Test changes 3 - bwl0016
+// TEST CHANGES 4 with bandit and ollama - bwl0016
 
 Rcpp::List normalApprox(Rcpp::List XList, Rcpp::List YList, Rcpp::List ZList, Eigen::MatrixXd& W,
                         Rcpp::List mdata, Rcpp::List mdataSList,
